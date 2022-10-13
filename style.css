@@ -1,0 +1,83 @@
+body{
+    background-color: #66DDB0;
+}
+
+#nome{
+    font-family: 'Cormorant Garamond';
+    font-size: 3em;
+    padding: 0;
+    margin: 0;
+    letter-spacing: 0.05em;
+    color: #523E27;
+    margin-top: 0.5em;
+}
+
+#titulo-1{
+    font-family: 'Cormorant Garamond';
+    font-size: 1.8em;
+    padding: 0;
+    margin: 0;
+    color: #523E27;
+    margin-top: 0.5em;
+    background-color: #E8CFC1;
+}
+
+.ads{
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1em;
+    border-style: double;
+    border-radius: 2em;
+    border-color: #523E27;
+    background-color: #E8CFC1;
+    font-weight: bolder;
+}
+
+#texto{
+    color: #523E27;
+    font-family: 'Cormorant Garamond';
+    font-size: large;
+    padding-top: 1em;
+    font-weight: bolder;
+}
+
+#forms{
+    border-radius: 1em;
+    margin-bottom: 3em;
+    align-self: flex-end;
+}
+
+.btn{
+    background-color: #523E27;
+    color: #66DDB0;
+    border-color: #523E27;
+    font-weight: bold;
+    border-radius: 5em;
+    width: 75%;
+    margin-left: 4em;
+}
+
+.btn:hover{
+    background-color: #66DDB0;
+    color: #523E27;
+    border-color: #523E27;
+    font-weight: bold;
+}
+
+#contato{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #523E27;
+    font-family: 'Cormorant Garamond';
+    font-size: 2em;
+    padding-top: 1em;
+    font-weight: bold;
+}
+
+#titulo-contatos{
+    background-color: #66DDB0;
+    margin-top: 1em;
+    padding: 0.5em;
+    border-radius: 2em;
+}
