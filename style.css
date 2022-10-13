@@ -45,6 +45,7 @@ body{
     border-radius: 1em;
     margin-bottom: 3em;
     align-self: flex-end;
+    background-color: #00000067;
 }
 
 .btn{
@@ -80,4 +81,5 @@ body{
     margin-top: 1em;
     padding: 0.5em;
     border-radius: 2em;
+    margin-bottom: 20vh;
 }
